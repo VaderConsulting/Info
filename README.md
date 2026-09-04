@@ -22,6 +22,10 @@ VS 2008 VB.NET (.NET 3.5) working copy. Info.CPU samples kernel32 GetSystemTimes
 
 Open `Info.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 - **Assembly company:** Microsoft
