@@ -28,6 +28,7 @@ Open `Info.sln` in Visual Studio.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder `Info`.
 - **Assembly company:** Microsoft
 - **Assembly copyright:** Copyright © Microsoft 2010
 
