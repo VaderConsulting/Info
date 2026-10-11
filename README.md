@@ -1,6 +1,6 @@
 # Info
 
-VS 2008 VB.NET (.NET 3.5) working copy. Info.CPU samples kernel32 GetSystemTimes over 250 ms and StartCPUSpin launches one DoSpin thread per core until CurrentUtilisation meets DesiredCPUUtilisation (default 25%). Test.frmMain plots the percentage on Plotter1 and Start/Stop toggles the spinner from nudDesiredValue; the solution also references an external Plotter.csproj that is not in this tree. Open `Info.sln`. This is a historical working copy from Dave Robinson / VaderConsulting.
+VS 2008 VB.NET (.NET 3.5) working copy. Info.CPU samples kernel32 GetSystemTimes over 250 ms and StartCPUSpin launches one DoSpin thread per core until CurrentUtilisation meets DesiredCPUUtilisation (default 25%). Test.frmMain plots the percentage on Plotter1 and Start/Stop toggles the spinner from nudDesiredValue; the solution also references an external Plotter.csproj that is not in this tree. Open `Info.sln`. This is a historical working copy from Dave Robinson / Vader Consulting.
 
 **Source last updated:** 2010-01-05  
 **Language:** VB.NET  
@@ -9,7 +9,7 @@ VS 2008 VB.NET (.NET 3.5) working copy. Info.CPU samples kernel32 GetSystemTimes
 
 ## What it is
 
-VS 2008 VB.NET (.NET 3.5) working copy. Info.CPU samples kernel32 GetSystemTimes over 250 ms and StartCPUSpin launches one DoSpin thread per core until CurrentUtilisation meets DesiredCPUUtilisation (default 25%). Test.frmMain plots the percentage on Plotter1 and Start/Stop toggles the spinner from nudDesiredValue; the solution also references an external Plotter.csproj that is not in this tree. Open `Info.sln`. This is a historical working copy from Dave Robinson / VaderConsulting.
+VS 2008 VB.NET (.NET 3.5) working copy. Info.CPU samples kernel32 GetSystemTimes over 250 ms and StartCPUSpin launches one DoSpin thread per core until CurrentUtilisation meets DesiredCPUUtilisation (default 25%). Test.frmMain plots the percentage on Plotter1 and Start/Stop toggles the spinner from nudDesiredValue; the solution also references an external Plotter.csproj that is not in this tree. Open `Info.sln`. This is a historical working copy from Dave Robinson / Vader Consulting.
 
 ## Solution structure
 
